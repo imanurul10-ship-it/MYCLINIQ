@@ -1,5 +1,5 @@
-import { Body3D } from "../Body3D";
-import { PainSlider } from "../PainSlider";
+import { Body3D } from "./Body3D";
+import { PainSlider } from "./PainSlider";
 
 export type BodyRegion =
   | "head" | "neck" | "chest" | "abdomen" | "pelvis"

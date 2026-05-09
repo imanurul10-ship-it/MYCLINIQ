@@ -1,6 +1,6 @@
 import { Minus, Plus, RotateCcw, X, Pencil, Eraser, MousePointer2, Trash2 } from "lucide-react";
 import { useMemo, useRef, useState, useEffect } from "react";
-import type { BodyRegion } from "./components/SmartSymptomInput";
+import type { BodyRegion } from "./SmartSymptomInput";
 import bodyFront from "@/assets/body-front.jpg";
 import bodyBack from "@/assets/body-back.jpg";
 
